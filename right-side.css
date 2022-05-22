@@ -1,0 +1,22 @@
+.my-name {
+   margin-top: 1.6rem;
+   font-size: 3.7rem;
+   letter-spacing: 5px;
+}
+
+/* RIGHT SIDE +++++++++++++++++++++++++++++++++ */
+.right-side {
+   width: 65%;
+   padding: 0 2rem;
+}
+
+.project-container {
+   margin: 1.5rem 0;
+}
+
+.highlight.right-side {
+   padding: 0;
+   font-size: 2rem;
+   letter-spacing: 5px;
+}
+/* HOME PROJECTS */

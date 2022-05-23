@@ -52,7 +52,7 @@ body {
    font-size: var(--sub-text-font-size);
 }
 .lists li {
-   margin: 0.9rem 0;
+   margin: 0.7rem 0;
 }
 
 .project-name-link {

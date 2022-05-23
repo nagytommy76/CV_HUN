@@ -4,7 +4,7 @@
    /* --highlight-text: #fe7f2d; */
    --highlight-text: #fb8500;
    --main-font-size: 1.7rem;
-   --sub-text-font-size: 1.1rem;
+   --sub-text-font-size: 1.2rem;
 }
 h1,
 h2,
@@ -32,7 +32,6 @@ body {
    color: var(--highlight-text);
    text-transform: uppercase;
    letter-spacing: 7px;
-   /* margin-top: 1.5rem; */
    margin: 1.6rem 0 1.2rem 0;
    font-size: var(--main-font-size);
 }
@@ -54,4 +53,12 @@ body {
 }
 .lists li {
    margin: 0.4rem 0;
+}
+
+.project-name-link {
+   font-size: 1.3rem;
+}
+
+.sub-title {
+   font-size: 1.2rem;
 }

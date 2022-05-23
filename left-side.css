@@ -10,9 +10,9 @@
 }
 
 img {
-   margin-top: 1.6rem;
-   width: 270px;
-   height: 270px;
+   margin-top: 1rem;
+   width: 255px;
+   height: 255px;
    border-radius: 50%;
    object-fit: cover;
    object-position: center 34%;
